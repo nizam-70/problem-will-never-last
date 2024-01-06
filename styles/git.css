@@ -1,7 +1,15 @@
 div{
     background-attachment: fixed;
-    background-color: burlywood;
+    background-color: rgb(90, 77, 59);
     margin:20px;
     padding: 20px;
     font-size: 26px;
+    color:rgb(146, 99, 99);
+}
+img
+{
+    width:400px;
+    height:400px;
+    margin: 10px;
+    padding: 10px;
 }
